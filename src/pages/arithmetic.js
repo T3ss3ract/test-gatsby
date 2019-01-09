@@ -6,13 +6,9 @@ import Layout from '../components/layout'
 import Image from '../components/image'
 import SEO from '../components/seo'
 
-const DevelopmentPage = () => (
+const ArithmeticOperationsPage = () => (
     <Layout>
-        <SEO title = "development page"/>
-        <h1>IDE setup</h1>
-        <h2>VScode </h2>
-
+        <SEO title = "Arithmetic Operations" />
+        <h1>Arithmetic operations in x86</h1>
     </Layout>
 )
-
-export default DevelopmentPage
